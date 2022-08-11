@@ -1,0 +1,13 @@
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.exe
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.deps.json
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.runtimeconfig.json
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.runtimeconfig.dev.json
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.dll
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\bin\Debug\netcoreapp3.1\MicrosoftSQLServer.pdb
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.csprojAssemblyReference.cache
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.AssemblyInfoInputs.cache
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.AssemblyInfo.cs
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.csproj.CoreCompileInputs.cache
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.dll
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.pdb
+D:\Github\C#\MicrosoftSQLServer\MicrosoftSQLServer\obj\Debug\netcoreapp3.1\MicrosoftSQLServer.genruntimeconfig.cache
